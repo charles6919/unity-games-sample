@@ -1,0 +1,6 @@
+﻿unity-games-sample/Temp
+unity-games-sample/UserSettings
+*.sln
+*.csproj
+unity-games-sample/Logs
+unity-games-sample/Library
